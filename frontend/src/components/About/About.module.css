@@ -1,0 +1,13 @@
+.aboutSection {
+  padding: 30px 15px;
+}
+
+.aboutText {
+  text-align: left;
+}
+
+.aboutImage {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}

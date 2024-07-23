@@ -1,0 +1,28 @@
+.overlayBox {
+  background-color: rgba(255, 255, 255, 0.6);
+  padding: 2rem;
+  border-radius: 2px;
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+  color: #000;
+}
+
+.carouselCaption {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  bottom: initial;
+  right: initial;
+}
+
+.fullHeight {
+  height: 100vh;
+  width: 100%;
+  object-fit: cover;
+}
+
+.overlayBox p {
+  font-weight: 500;
+}
